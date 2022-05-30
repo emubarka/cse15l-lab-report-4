@@ -6,9 +6,9 @@ Link of MarkdownParse repo:
 Link of my MarkdownParse repo: 
 [emubarka](https://github.com/emubarka/cse15l-lab-report-4.git)
 
-# Snipet 1
+# Snippet 1
 
-Testing out the Snipet 1 code with 'MarkdownParseTest.java' file:
+Testing out the Snippet 1 code with 'MarkdownParseTest.java' file:
 
 ![Test code](Snippet1Test.png)
 
@@ -23,9 +23,9 @@ Result from code of 'kgano-ucsd' of 'MarkdownParse.java':
 Both of these tests didn't pass.
 
 ---
-# Snipet 2
+# Snippet 2
 
-Testing out the Snipet 2 code with 'MarkdownParseTest.java' file:
+Testing out the Snippet 2 code with 'MarkdownParseTest.java' file:
 
 ![Test code](Snippet2Test.png)
 
@@ -40,9 +40,9 @@ Results from code of 'kgano-ucsd' of 'MarkdownParse.java':
 Both of these tests didn't pass.
 
 ---
-# Snipet 3
+# Snippet 3
 
-Testing out the Snipet 3 code with 'MarkdownParseTest.java' file:
+Testing out the Snippet 3 code with 'MarkdownParseTest.java' file:
 
 ![Test code](Snippet3Test.png)
 
